@@ -1,0 +1,6 @@
+name: ict-procurement
+title: ICT Public Procurement Guide
+version: 0.1
+start_page: ROOT:context.adoc
+nav:
+- modules/ROOT/nav.adoc
