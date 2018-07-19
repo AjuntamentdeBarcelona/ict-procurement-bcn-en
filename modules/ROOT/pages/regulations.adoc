@@ -1,0 +1,11 @@
+= Applicable regulations
+
+In terms of public procurement:
+
+* Directive 2014/24/EU on public procurement establishes the compulsory nature of electronic tendering in the third quarter of 2018, and regard to the use of electronic media for the communication and exchange of information (October 2017 for procurement centres).
+* Spanish Royal Legislative Decree 3/2011, of 14 November, approving the consolidated text of the Spanish Public Sector Contracts Law.
+* Spanish Law 39/2015 on common administrative procedure establishes, among other things, the compulsory nature of using electronic files and processing them electronically.
+* Spanish Law 19/2014, of 29 December, on transparency, access to public information and good governance, establishes the active dis-closure obligations that must be met by local council authorities, which include those relating to contracts and agreements.
+* Mayoral Decree (S1/D/2017-1271, of 24 April), on sustainable public procurement by Barcelona City Council.
+* Spanish Royal Decree 4/2010 (national interoperability framework) establishes, among other things, an obligation to comply with open standards and re-use code if it exists.
+* Royal Decree 5/2010 (national security framework).
