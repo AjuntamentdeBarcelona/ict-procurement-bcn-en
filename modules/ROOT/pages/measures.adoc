@@ -42,7 +42,7 @@ Specifically, the following:
 
 For example, make use of tender formats such as those based on framework agreements or electronic auctions, which enable the public procurement procedure to be simplified, in order to make them more accessible and less costly for bidders.
 
-The negotiation-based tender procedure also enables essential direct contact be-tween companies and the contracting authority, thereby guaranteeing equal treatment, to define and adapt the offers from the market to municipal needs.
+The negotiation-based tender procedure also enables essential direct contact between companies and the contracting authority, thereby guaranteeing equal treatment, to define and adapt the offers from the market to municipal needs.
 
 Complex procedures can prevent access to public procurement by SMEs and small vendors that lack the resources needed to tackle traditional documentation and procedural requirements.
 
@@ -63,7 +63,7 @@ The goal of this new relationship model is to *encourage more participatory, acc
 
 * *Reduce the administrative deadlines and costs associated with tender procedures, making them more accessible* to new suppliers, especially local small- and medium-sized enterprises, which make up the core of the economic fabric.
 
-* *Make public procurement processes more visible and increase transparency*, in order to make them more accessible and in-form the public about how public resources are invested and under which criteria, as well as about the results and objectives achieved.
+* *Make public procurement processes more visible and increase transparency*, in order to make them more accessible and inform the public about how public resources are invested and under which criteria, as well as about the results and objectives achieved.
 
 *Facilitate and foster the procurement of innovative products and services, in line with the strategic objectives of the City Council in terms of ICT* (technological sovereignty, use of open standards, etc.) and incorporating the latest solutions in the market.
 
@@ -81,7 +81,7 @@ The data life-cycle must ensure that every stage is developed with ethical respe
 
 *OPEN DATA*
 
-The openness of public sector data (open public data) is a movement being promoted by public authorities in order to make the best use of available public resources and current technological capabilities, presenting the in-formation generated or kept by public bodies and enabling access and re-use for the benefit of any interested person or entity.
+The openness of public sector data (open public data) is a movement being promoted by public authorities in order to make the best use of available public resources and current technological capabilities, presenting the information generated or kept by public bodies and enabling access and re-use for the benefit of any interested person or entity.
 
 This potentially high-value public information can relate to any topic or refer to any issue (pictographic documents, statistical data, study or analysis results, information on public services, etc.).
 Companies, researchers, other public institutions or the general public can make use of the information resources for any purpose, maximising the economic and social possibilities offered by this project: fostering management transparency, improving citizen services, generating business activities and social impact, and seeking efficiency of government.
@@ -99,9 +99,7 @@ A new management model for the data resulting from the operation of services, ap
 
 The goal is to provide a public and open data infrastructure for the development of innovative data-driven applications aimed at *better access to public services and improved quality of life while guaranteeing data sovereignty for the public.*
 
-*NEW DEVELOPMENT*
-
-*METHODOLOGY*
+*NEW DEVELOPMENT METHODOLOGY*
 
 New tools and technologies enable the end of the traditional life-cycle of system development structured as a series of highly specific stages of limited scope: definition of requirements, functional design, technical design, construction, testing, user testing, production and maintenance.
 
@@ -110,7 +108,7 @@ Generally-speaking, agile methodologies harness this reduction to *build applica
 
 *EXPECTED BENEFITS FROM THE USE OF AGILE METHODOLOGIES*
 
-The use of agile methodologies brings a series of advantages over traditional methodologies, especially in the field of digital service pro-vision.
+The use of agile methodologies brings a series of advantages over traditional methodologies, especially in the field of digital service provision.
 Specifically, the following:
 
 * More focus on end users, given that they are involved in the entire design, construction and maintenance process for applications and services.
@@ -127,9 +125,7 @@ Systemise ongoing improvement based on short review and adaptation cycles.
 *  Transform the organisational culture.
 Place emphasis on collaboration and transparency.
 
-*TECHNOLOGICAL*
-
-*SOVEREIGNTY*
+*TECHNOLOGICAL SOVEREIGNTY*
 
 The current way ICT service are provided that is mostly based on outsourcing and the use of proprietary software has led to a certain degree of ICT vendor lock-in at Barcelona City Council.
 This dependency has certain undesired effects on the cost of procuring and using information systems, and the public authorities’ ability to maintain and evolve them.

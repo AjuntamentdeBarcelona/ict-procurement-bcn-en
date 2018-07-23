@@ -81,8 +81,7 @@ This guide *stems from a joint effort by various City Council departments and th
 
 * *Contributions to the content were made by:*
 ** Experts and technicians at the IMI on various ICT issues mentioned in this guide.
-
-** Experts and technicians from the Ad-ministration Department, Legal Services and Intervention Department of the IMI regarding the legal suitability and validity of the approaches, proposed measures and clauses.
+** Experts and technicians from the Administration Department, Legal Services and Intervention Department of the IMI regarding the legal suitability and validity of the approaches, proposed measures and clauses.
 
 * *Support and advice was provided* by the Contracting Coordination Department of Barcelona City Council.
 
@@ -99,7 +98,7 @@ The aim is two-fold: to raise the profile and increase the transparency of contr
 
 == Framework of reference: sustainable public procurement
 
-Public authorities can use their contracts as effective instruments in the fight against social exclusion, to create quality jobs, pro-mote gender equality and help preserve the environment.
+Public authorities can use their contracts as effective instruments in the fight against social exclusion, to create quality jobs, promote gender equality and help preserve the environment.
 
 Consideration No. 2 of *Directive 2014/24/* *EU on public procurement, approved by the* European Parliament and the Council, states: *“Public procurement plays a key role in the Europe 2020 Strategy* as one of the market-based instruments to be used *to achieve smart, sustainable and inclusive growth* while ensuring the most efficient use of public funds, facilitating the participation of small and medium-sized enterprises in public procurement, and *enabling procurers to make better use of public procurement in support of common societal goals”.*
 
@@ -131,7 +130,7 @@ This membership has also led to the inclusion of certain clauses in procurement 
 This strategy was adopted following *the publication of a mayoral decree on sustainable public procurement by Barcelona City Council (S1/D/2017-1271, of 24 April),* the first article of which states a desire to promote public procurement that incorporates social, environmental, ethical and innovation measures into the cause and purpose of municipal public measures:
 
 * that guarantee the employment, social and citizenship rights of the people who execute the public contracts and the recipients or users thereof;
-* that foster a circular and sustainable lo-cal economy;
+* that foster a circular and sustainable local economy;
 * and that promote economic activity by small and medium-sized enterprises, local micro-enterprises and, especially, social companies.
 
 *The decree incorporates the Guide on Social Public Procurement and the Guide on Environmental Public Procurement* in order to raise the profile of and expedite the incorporation of social and environmental measures and clauses in future specifications, and fore-sees the possible incorporation of measures or instructions in other areas.
@@ -152,15 +151,13 @@ Terminals act as points of access to the Information Society and are therefore o
 Various technological innovations have contributed to this situation and encouraged a conducive environment, because innovation in terminals goes hand-in-hand with innovation in services (given that the terminal is usually the element that limits access).
 
 * *Software.*
-This is the set of computer pro-grams, procedures and documentation that per-form certain tasks within a computer.
+This is the set of computer programs, procedures and documentation that perform certain tasks within a computer.
 
 * *Digital services.*
-A digital service is understood to be any service made available to users via the Internet or via any adaptation or application of the protocols, platforms or technologies used for the Internet or any other public or private network, and through which equivalent online services are provided to ac-company their offline counterparts.
+A digital service is understood to be any service made available to users via the Internet or via any adaptation or application of the protocols, platforms or technologies used for the Internet or any other public or private network, and through which equivalent online services are provided to accompany their offline counterparts.
 They are essentially automatic and non-viable in the absence of information technology.
 
-*PUBLIC PROCUREMENT*
-
-*FOR INNOVATION*
+*PUBLIC PROCUREMENT FOR INNOVATION*
 
 The City Council wishes to take advantage of the benefits of procurement for innovation and has defined a strategy involving the introduction of a series of measures to ensure its procurement activities foster innovation for the purpose of guaranteeing and increasing wellbeing for the people who live in this region.
 Innovation partnerships are a new way to enter into contracts and dialogue with the market in order to meet certain needs that cannot be resolved during standard contracting processes.
@@ -182,7 +179,7 @@ In terms of technology, the scope of application of this guide mainly consists o
 * *Acquisition of ICT software and solutions:* purchase of ICT applications and solutions, as well as licences for their use.
 * *Development of services and applications:* development, maintenance and evolution of efficient and productive ICT solutions for the public and for municipal employees.
 
-*ICT infrastructures:* deployment, oversight and control of ICT applications, services and systems for the City Council, including the administration of tasks related to the ope-ration of infrastructures and applications.
+*ICT infrastructures:* deployment, oversight and control of ICT applications, services and systems for the City Council, including the administration of tasks related to the operation of infrastructures and applications.
 
 *SCOPE OF APPLICATION OF PROCUREMENT FOR INNOVATION*
 
