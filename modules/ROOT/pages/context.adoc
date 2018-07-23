@@ -125,12 +125,12 @@ It is against this backdrop that *Barcelona City Council,* with the desire to dr
 ** Providing a public and open data infrastructure capable of guaranteeing privacy for the public and increasing the transparency of the municipal authorities.
 ** Incorporating new methodologies that enable the development of innovative and efficient digital services focused on the needs of the people.
 
-[cols="a,a",width="25%",align="center"]
-|===
-2+^| *MAYORAL DECREE*
-^| *SOCIAL MEASURES* ^| *ENVIRONMENTAL MEASURES*
-2+^| *ICT & INNOVATION*
-|===
+//[cols="a,a",width="25%",align="center"]
+//|===
+//2+^| *MAYORAL DECREE*
+//^| *SOCIAL MEASURES* ^| *ENVIRONMENTAL MEASURES*
+//2+^| *ICT & INNOVATION*
+//|===
 
 These measures will have a knock-on effect on the other two lines of action (social and environmental) given that good management of innovation and technology is key to the development of better social policies (social housing, reduction of poverty or creating future jobs) and better environmental policies, as well as for enhancing their effect.
 
