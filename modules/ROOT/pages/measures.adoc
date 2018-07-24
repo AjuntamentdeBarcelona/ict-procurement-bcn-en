@@ -14,7 +14,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 *The measures* that must be applied in the new ICT service procurement model *are based* *around four actions lines:*
 
-image::image1.png[image,width=589,height=117]
+image::image1.png[image,width=90%]
 
 *NEW RELATIONSHIP MODEL*
 
@@ -169,11 +169,11 @@ Other benefits include:
 
 *To facilitate the applicability of the strategic measures* by the City Council and the IMI described in this guide *to future ICT service contracts, the annex contains a series of criteria or conditions that can be added to specifications* (technical and administrative) *based on the scope and purpose of the contract:*
 
-image::image2.png[image,width=589,height=149]
+image::image2.png[image,width=90%]
 
 *The incorporation of these elements into a public procurement process can be done in a number of ways, as briefly explained below.*
 
-image::image3.png[image,width=715,height=135]
+image::image3.png[image,width=80%]
 
 *Incorporation as solvency criteria*
 
