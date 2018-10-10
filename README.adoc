@@ -30,7 +30,7 @@ Javier Ruiz, Gemma Galdon, John Michaelides, Esther Bretschneider.
 
 // MANDATORY. Summary of the contents of the document. This would correspond to
 // the "abstract" in an academic publication.
-:_summary: The definition of a new model of relation and partnership with technology suppliers, based on the Code of Technological Practices.
+:_summary: The definition of a new model of relation and partnership with technology suppliers, based on the xref:tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice].
 
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
