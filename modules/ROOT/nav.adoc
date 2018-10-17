@@ -1,4 +1,4 @@
 * xref:context.adoc[Context]
 * xref:measures.adoc[Measures and their application to procurement]
 * xref:regulations.adoc[Applicable regulations]
-* xref:glossary:ROOT:glossary.adoc[Glossary]
+// * xref:glossary:ROOT:glossary.adoc[Glossary]
