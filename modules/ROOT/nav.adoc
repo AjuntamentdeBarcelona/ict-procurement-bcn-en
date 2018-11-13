@@ -1,4 +1,13 @@
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+.$$MAIN
 * xref:context.adoc[Context]
 * xref:measures.adoc[Measures and their application to procurement]
 * xref:regulations.adoc[Applicable regulations]
-// * xref:glossary:ROOT:glossary.adoc[Glossary]
+
+.$$BOTTOM
+* xref:{lang}/glossary:ROOT:glossary.adoc[Guides glossary]
+* link:{attachmentsdir}/barcelona_ict_procurement_{revnumber}.{lang}.pdf[Download PDF]
