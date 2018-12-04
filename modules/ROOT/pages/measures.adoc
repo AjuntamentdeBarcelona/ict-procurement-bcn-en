@@ -10,7 +10,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 image::image1.png[image, width=90%, align="center"]
 
-*NEW RELATIONSHIP MODEL*
+=== New relationship model
 
 The traditional vision of public authority action is based on the exercise of authority according to legitimacy under the law and the legal system.
 Hence, administrative procedure (and, therefore, public procurement) has been conceived as a closed and extremely regulated process.
@@ -26,7 +26,7 @@ In terms of public procurement, *this unilateral nature has led to the following
 *However, this paradigm is changing.*
 *The main lines of action being promoted by the City Council* to build this new relationship and contracting framework are explained below.
 
-*PRELIMINARY MARKET CONSULTATIONS*
+==== Preliminary market consultations
 
 The current legal framework includes the option to launch a dialogue between the contracting authorities and the market prior to launching a contracting process.
 The goal is to know and investigate the solutions being offered by the market to meet the needs that are the object of the contract.
@@ -40,7 +40,7 @@ Specifically, the following:
 
 * This is a contracting model with *more* *collaboration between the parties,* which facilitates closer ties between the public authorities and the reality of the market.
 
-*MARKET OPENNESS*
+==== Market openness
 
 *A more open and transparent relationship with the ICT sector, with simpler, more efficient and more accessible procurement processes* to lighten the bureaucratic burden and reduce the cost of accessing public procurement processes.
 
@@ -54,14 +54,14 @@ For this reason, correct tender planning is important so as to make it easier fo
 
 The goal of minimising these barriers is to broaden the range of vendors that work with the IMI, thereby opening up public procurement to the ecosystem of local companies and professionals with talent, helping it to strengthen and grow.
 
-*TRANSPARENCY*
+==== Transparency
 
 *Facilitating access* by vendors and the public to accurate and up-to-date information on the ICT contracts of the City Council, *raising the profile of public procurement processes* and *increasing transparency* has highly positive effects on the openness and accessibility of these procedures:
 
 * The public can know how its money is being spent and under which criteria, as well as the results and objectives achieved under the contracts already completed.
 * Vendors can use a single point to access all the information associated with municipal contracting (planning, contracting, criteria and evaluation measures, strategic position of the City Council, etc.) in order to make it more accessible and facilitate their resource planning.
 
-*EXPECTED BENEFITS*
+==== Expected benefits
 
 The goal of this new relationship model is to *encourage more participatory, accessible, agile and flexible contracting procedures, with the following objectives:*
 
@@ -71,9 +71,9 @@ The goal of this new relationship model is to *encourage more participatory, acc
 
 *Facilitate and foster the procurement of innovative products and services, in line with the strategic objectives of the City Council in terms of ICT* (technological sovereignty, use of open standards, etc.) and incorporating the latest solutions in the market.
 
-*DATA MANAGEMENT MODEL*
+=== Data management model
 
-*DATA SECURITY AND ETHICS*
+==== Data security and ethics
 
 The volume of data generated nowadays offers a series of unbeatable opportunities but also poses new security-related challenges and risks.
 The City Council must ensure the security of data of the public and the city by protecting confidentiality and integrity, and guarantee quality by adding the appropriate mechanisms.
@@ -83,7 +83,7 @@ The publication of data must always ensure that citizens privacy is maintained i
 
 The data life-cycle must ensure that every stage is developed with ethical respect for the citizens; from how data are generated, stored and shared to the procedures and purposes for which they are used.
 
-*OPEN DATA*
+==== Open data
 
 The openness of public sector data (open public data) is a movement being promoted by public authorities in order to make the best use of available public resources and current technological capabilities, presenting the information generated or kept by public bodies and enabling access and re-use for the benefit of any interested person or entity.
 
@@ -95,7 +95,7 @@ For example, sharing data associated with mobility can facilitate the creation o
 In a democratic city, residents must be able to use the shared knowledge base and add to it.
 Furthermore, active participation by the public can help resolve the challenges faced by the city.
 
-*EXPECTED BENEFITS FROM THE NEW DATA MANAGEMENT MODEL*
+==== Expected benefits from the new data management model
 
 The goal of this new data management model is *to enhance the value of the city’s public* *information data and infrastructure, and guarantee* (as an essential requirement) privacy and responsible use of the data associated with the public and the use of municipal public services.
 
@@ -103,14 +103,14 @@ A new management model for the data resulting from the operation of services, ap
 
 The goal is to provide a public and open data infrastructure for the development of innovative data-driven applications aimed at *better access to public services and improved quality of life while guaranteeing data sovereignty for the public.*
 
-*NEW DEVELOPMENT METHODOLOGY*
+=== New development methodology
 
 New tools and technologies enable the end of the traditional life-cycle of system development structured as a series of highly specific stages of limited scope: definition of requirements, functional design, technical design, construction, testing, user testing, production and maintenance.
 
 This translates into a highly significant reduction in time between requirements and roll-out (production).
 Generally-speaking, agile methodologies harness this reduction to *build applications more efficiently, more securely, more attractively and in a manner more focused on the needs of the end user.*
 
-*EXPECTED BENEFITS FROM THE USE OF AGILE METHODOLOGIES*
+==== Expected benefits from the use of agile methodologies
 
 The use of agile methodologies brings a series of advantages over traditional methodologies, especially in the field of digital service provision.
 Specifically, the following:
@@ -129,7 +129,7 @@ Systemise ongoing improvement based on short review and adaptation cycles.
 *  Transform the organisational culture.
 Place emphasis on collaboration and transparency.
 
-*TECHNOLOGICAL SOVEREIGNTY*
+=== Technological sovereignty
 
 The current way ICT service are provided that is mostly based on outsourcing and the use of proprietary software has led to a certain degree of ICT vendor lock-in at Barcelona City Council.
 This dependency has certain undesired effects on the cost of procuring and using information systems, and the public authorities’ ability to maintain and evolve them.
@@ -142,7 +142,7 @@ This technological sovereignty – promoted with open standards – must also be
 
 * *Define new contractual frameworks that take into account the required education and training of municipal technicians* involved in the software design and development projects in order to minimise dependency on third parties for the management of municipal services.
 
-*EXPECTED BENEFITS*
+==== Expected benefits
 
 The goal is to establish a preferential use of free software, and open architecture and standards, as well as to provide the City Council with the profiles and capabilities needed to regain knowledge of the ICT services associated with city management and control of digital services.
 The aim of this is to acquire technological sovereignty capable of leaving this knowledge as a legacy for the city itself.

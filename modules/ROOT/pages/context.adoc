@@ -6,7 +6,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 == Introduction
 
-*CONTRACTING AS A LEVER FOR TRANSFORMING THE ECONOMIC AND SOCIAL MODEL*
+=== Contracting as a lever for transforming the economic and social model
 
 *Municipal contracting represents a highly significant injection of resources into the economy.*
 Barcelona City Council has an annual contracting budget of some 600 million euros in goods and services (almost 25% of the municipal budget), a figure that surpasses 1 billion euros when taking the municipal group as a whole.
@@ -17,7 +17,7 @@ levers for promoting the transformation of the economic and social model in Barc
 
 *The City Council seeks* to harness these resources to *promote a new governance and management model for ICTs at the City Council*, as a driving force for this transformation, and make them an instrument for growing the economic fabric of the ICT sector and innovation in the city.
 
-*ICTS AND INNOVATION AS KEYS OF TRANSFORMATIONAL*
+=== ICTs and innovation as keys of transformational
 
 *The evolution of ICTs in general and the widespread use of the Internet specifically are transforming almost every sector of our society and economy* (from manufacturing and transport to energy and healthcare services).
 Information and data have become one of the most valuable and precious goods.
@@ -38,7 +38,7 @@ Undoubtedly, these are all fine examples of how *the use of ICTs – and especia
 
 *It is in this context that cities like Barcelona are facing the need to transform the way they do things* and find new strategies based on technology and innovation *in order to achieve more balanced and sustainable economic growth that can help municipal authorities to act with efficiency and social justice.*
 
-*TRANSITION TOWARDS TECHNOLOGICAL SOVEREIGNTY*
+=== Transition towards technological sovereignty
 
 On 6 October 2016, the Technology and Digital Innovation Commissioner presented the *2017-2020 Digital Barcelona Plan: transition towards technological sovereignty*, which seeks “to overcome the challenges for the city and its people through more democratic use of technology.
 To foster technological and digital innovation for a more open government as a tool for the development of a plural economy capable of encouraging this social and environmental transformation, and favouring citizen empowerment”.
@@ -66,7 +66,7 @@ Barcelona wishes to harness the opportunities offered by technology and innovati
 
 This guide provides *a general overview of the* *municipal strategy for the procurement of technology and technology services* in order to enable an understanding of the various strategic measures and contractual clauses that allow the City Council’s approach to be implemented in this field.
 
-*RECIPIENTS OF THE GUIDE*
+=== Recipients of the guide
 
 This guide has been drafted for *managers* *of the various municipal departments and bodies, public service executives and managers, municipal technicians, City Council ICT suppliers, the general public and anyone with an interest in the procurement or provision of technology services.* It offers detailed information on the why, what and how of ICT contracting, including explanations on the content of specific measures and their application.
 Specifically, this guide is intended for the following persons:
@@ -79,7 +79,7 @@ Specifically, this guide is intended for the following persons:
 
 * Finally, publication of this guide is an exercise in transparency with the general public as it enables people to gain increased knowledge, monitor and control the measures being taken by the City Council to achieve the targets set.
 
-*CREATING AND IMPLEMENTING THE GUIDE*
+=== Creating and implementing the guide
 
 This guide *stems from a joint effort by various City Council departments and the IMI in conjunction with the business sector*.
 
@@ -119,6 +119,8 @@ It is against this backdrop that *Barcelona City Council,* with the desire to dr
 ** Providing a public and open data infrastructure capable of guaranteeing privacy for the public and increasing the transparency of the municipal authorities.
 ** Incorporating new methodologies that enable the development of innovative and efficient digital services focused on the needs of the people.
 
+// TODO: image
+
 //[cols="a,a",width="25%",align="center"]
 //|===
 //2+^| *MAYORAL DECREE*
@@ -143,7 +145,7 @@ This strategy was adopted following *the publication of a mayoral decree on sust
 
 == Concept of ICT contracting and procurement for innovation
 
-*TECHNOLOGY CONTRACTING*
+=== Technology contracting
 
 The term ICT contracting is used to refer to any process for the purchase, maintenance or improvement of any element associated with the following areas:
 
@@ -161,7 +163,7 @@ This is the set of computer programs, procedures and documentation that perform 
 A digital service is understood to be any service made available to users via the Internet or via any adaptation or application of the protocols, platforms or technologies used for the Internet or any other public or private network, and through which equivalent online services are provided to accompany their offline counterparts.
 They are essentially automatic and non-viable in the absence of information technology.
 
-*PUBLIC PROCUREMENT FOR INNOVATION*
+=== Public procurement for innovation
 
 The City Council wishes to take advantage of the benefits of procurement for innovation and has defined a strategy involving the introduction of a series of measures to ensure its procurement activities foster innovation for the purpose of guaranteeing and increasing wellbeing for the people who live in this region.
 Innovation partnerships are a new way to enter into contracts and dialogue with the market in order to meet certain needs that cannot be resolved during standard contracting processes.
@@ -176,7 +178,7 @@ This new approach will enable the emergence of innovative ideas and solutions th
 *_For more details, please see the Guide on Procurement for Innovation published by Barcelona City Council._*
 
 
-*SCOPE OF APPLICATION OF ICT SERVICES*
+=== Scope of application of ICT services
 
 In terms of technology, the scope of application of this guide mainly consists of the following:
 
@@ -185,11 +187,11 @@ In terms of technology, the scope of application of this guide mainly consists o
 
 *ICT infrastructures:* deployment, oversight and control of ICT applications, services and systems for the City Council, including the administration of tasks related to the operation of infrastructures and applications.
 
-*SCOPE OF APPLICATION OF PROCUREMENT FOR INNOVATION*
+=== Scope of application of procurement for innovation
 
 Barcelona provides a broad definition of the promotion of innovation in its strategy:
 
 * It understands public procurement for innovation (PPI) as public procurement that harnesses innovative solutions (products, technologies and processes) emerging in the procurement process to encourage a greater impact on sustainable and inclusive growth in society.
 * For the same purpose, Barcelona also promotes the inclusion of innovation in its standard procurement; in other words, the procurement of any product or service with an aspect of innovation.
 
-*_For more details, please see the Guide on Procurement for Innovation published by Barcelona City Council._*
+*_For more details, please see the xref:en/innovative-procurement:ROOT:innovating.adoc[Innovative Public Procurement Guide] published by Barcelona City Council._*
