@@ -8,7 +8,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 *The measures* that must be applied in the new ICT service procurement model *are based* *around four actions lines:*
 
-image::image1.png[image, width=90%, align="center"]
+image::ict-procurement-pag12-{lang}.svg[image, width=1854, align="center"]
 
 === New relationship model
 
