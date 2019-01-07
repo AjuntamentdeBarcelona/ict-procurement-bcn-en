@@ -163,11 +163,11 @@ Other benefits include:
 
 *To facilitate the applicability of the strategic measures* by the City Council and the IMI described in this guide *to future ICT service contracts, the annex contains a series of criteria or conditions that can be added to specifications* (technical and administrative) *based on the scope and purpose of the contract:*
 
-image::image2.png[image, width=90%, align="center"]
+image::ict-procurement-pag13-{lang}.svg[image, width=2148, align="center"]
 
 *The incorporation of these elements into a public procurement process can be done in a number of ways, as briefly explained below.*
 
-image::image3.png[image,width=80%, align="center"]
+image::ict-procurement-pag14-{lang}.svg[image, width=1864, align="center"]
 
 *Incorporation as solvency criteria*
 
